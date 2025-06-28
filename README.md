@@ -27,21 +27,6 @@ Make sure you have the following installed:
 pip install pygame
 python alien_invasion.py
 
-## 📁 Project Structure
-
-python_games/
-├── snake.py               # Main file for Snake game
-├── food.py                # Food logic for Snake
-├── scoreboard.py          # Score display and tracking
-│
-├── alien_invasion.py      # Main file for Alien Invasion game
-├── settings.py            # Game configuration settings
-├── ship.py                # Player spaceship class
-├── bullet.py              # Projectile class for player shots
-├── game_functions.py      # Handles game logic and events
-│
-└── README.md              # Project documentation
-
 ## 🛠️ Customization Tips
 
 Want to build or enhance a game?
