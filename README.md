@@ -6,13 +6,18 @@ Welcome to the **Python Games** repository — a fun and educational collection 
 
 ## 🎮 Games Included
 
-- **Snake**  
+- **Drunk**  
+  A classic game where the player controls a snake to collect food and grow longer, while avoiding collisions with walls or itself.
+- **Drunk**  
+  A classic game where the player controls a snake to collect food and grow longer, while avoiding collisions with walls or itself.
+- **Drunk**  
+  A classic game where the player controls a snake to collect food and grow longer, while avoiding collisions with walls or itself.
+- **Drunk**  
+  A classic game where the player controls a snake to collect food and grow longer, while avoiding collisions with walls or itself.
+- **Drunk**  
   A classic game where the player controls a snake to collect food and grow longer, while avoiding collisions with walls or itself.
 
-- **Alien Invasion**  
-  A space shooter game where the player controls a spaceship to shoot down alien fleets. Built using object-oriented principles with Pygame.
 
-*(More games may be added soon!)*
 
 ---
 
